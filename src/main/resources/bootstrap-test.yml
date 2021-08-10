@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sales-aegon-threshold-value-service
+  cloud:
+    config:
+      uri: ******************************
